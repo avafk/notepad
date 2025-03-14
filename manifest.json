@@ -1,0 +1,15 @@
+{
+      "name": "Notepad",
+      "short_name": "Notepad",
+      "start_url": "https://avafk.github.io/notepad",
+      "display": "standalone",
+      "background_color": "#ffffff",
+      "theme_color": "#4285f4",
+      "icons": [
+        {
+          "src": "/resources/notepad.png",
+          "sizes": "192x192",
+          "type": "notepad/png"
+        }
+      ]
+    }
